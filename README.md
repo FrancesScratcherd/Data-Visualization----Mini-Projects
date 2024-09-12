@@ -8,3 +8,5 @@ Welcome to my GitHub repository where I showcase a series of mini data visualiza
 
 **Project Description:**  
 The Palmer Penguins dataset is a great alternative to the classic Iris dataset for practicing data visualization and statistical analysis. It contains data about three penguin species—_Adelie_, _Gentoo_, and _Chinstrap_—collected from three islands in the Palmer Archipelago, Antarctica. My analysis will focus on basic statistical information, species-specific analysis, sex-based comparisons, relationships between variables and island specific insights.
+
+The dataset is sourced from the [Palmer Penguins website](https://allisonhorst.github.io/palmerpenguins/), created by Dr. Kristen Gorman and her team during research at Palmer Station, Antarctica.
